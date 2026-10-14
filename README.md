@@ -1,4 +1,4 @@
-# Olist-E-commerce-Marketplace-Analysis-SQL-
+# Olist E-commerce Marketplace Analysis (SQL)
 SQL analysis of Olist’s Brazilian e-commerce marketplace, exploring sales performance, customer purchasing behaviour, geographic trends, seller and category contributions, and the relationship between delivery delays and customer reviews using MySQL.
 
 ## Project Overview
